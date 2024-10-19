@@ -1,7 +1,3 @@
-Here's a catchy and professional version of your GitHub README:
-
----
-
 # 👋 Hey there, I'm DarknessGod36!
 
 🚀 **Fresh Graduate Design Verification Engineer** | 🎓 UniMAP (Computer Engineering)
