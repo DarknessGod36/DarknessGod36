@@ -11,7 +11,7 @@ I'm **DarknessGod36**, a **Design Verification Engineer** 🧑‍💻 freshly gr
   - **Anaconda** 🐍
   - Hybrid recommender system magic ✨
 - 🛠 Currently exploring:
-  - **C# & .NET** for industry projects 🔧
+  - **C++** for industry projects 🔧
   - **Verilog/SystemVerilog** for work purposes 🖥️
   - **Linux** and loving **Vim** like it's my second home 💚
 
