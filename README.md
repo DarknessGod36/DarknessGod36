@@ -25,7 +25,7 @@ I'm **DarknessGod36**, a **Design Verification Engineer** 🧑‍💻 freshly gr
 ---
 
 ### 🛠 Tech Stack I Work With:
-- **Programming Languages**: C#, Verilog, Python, Bash, etc. 🌍
+- **Programming Languages**: C++, Verilog, Python, Bash, etc. 🌍
 - **Tools & Platforms**: Android Studio, Anaconda, Vim, Linux, Git 🚀
 - **Automation**: I love scripting everything, making life easier one line of code at a time 💪.
 
